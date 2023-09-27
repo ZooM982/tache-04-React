@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="" src="/src/assets/img/read-me.png">
+<img alt="" src="src/assets/img/read-me.png">
 
 Built using:
 
