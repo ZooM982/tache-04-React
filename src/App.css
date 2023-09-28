@@ -95,7 +95,13 @@ nav.navbar .navbar-nav .nav-link.navbar-link {
 .image img{
   width: 100%;
   height: 100%;
-  object-fit: cover; 
+  object-fit: cover;
+  transition: transform .2s;
+}
+.image img:hover{
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
 }
 .services2{
   display: flex;
